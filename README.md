@@ -12,14 +12,14 @@ Safety has become the watchword throughout all spheres of life. Governments, org
 ![image](https://github.com/Yeaz065/GSM-based-Fire-Alert-System-Using-Arduino-NodeMCU-and-Fire-Detector-Sensor/assets/68266229/6706bfd0-56bc-4724-8452-85d7f6dc1b94)
 
 # Features
-1. Gas Leakage Detection
+## 1. Gas Leakage Detection
 ![image](https://github.com/Yeaz065/GSM-based-Fire-Alert-System-Using-Arduino-NodeMCU-and-Fire-Detector-Sensor/assets/68266229/d8075048-b306-4780-b3bf-03838b8bb52f)
 
-2. Fire Alert
+## 2. Fire Alert
 ![image](https://github.com/Yeaz065/GSM-based-Fire-Alert-System-Using-Arduino-NodeMCU-and-Fire-Detector-Sensor/assets/68266229/41cafaa9-e342-42f0-b81d-443c362caa3d)
 
-3. Requesting Sensor Data
+## 3. Requesting Sensor Data
 ![image](https://github.com/Yeaz065/GSM-based-Fire-Alert-System-Using-Arduino-NodeMCU-and-Fire-Detector-Sensor/assets/68266229/32afeb0b-53a4-42a5-9fd1-1545d537a22e)
 
-4. Sending Sensors’ Data to ThingSpeak Server
+## 4. Sending Sensors’ Data to ThingSpeak Server
 ![image](https://github.com/Yeaz065/GSM-based-Fire-Alert-System-Using-Arduino-NodeMCU-and-Fire-Detector-Sensor/assets/68266229/46ce7f28-8881-4e81-82f8-ebaf15344266)
