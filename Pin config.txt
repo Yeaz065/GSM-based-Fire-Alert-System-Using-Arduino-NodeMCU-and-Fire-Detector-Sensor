@@ -1,0 +1,10 @@
+#GSM: Tx-3 Rx-2
+#DHTPIN - 6
+#Buzzer - 12
+#Gas - A0
+#Flame - 7
+
+
+#ESP
+DHTPIN - D0
+Gas - A0
